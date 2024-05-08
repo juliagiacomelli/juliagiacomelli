@@ -25,13 +25,13 @@
 
 ###
 
-<img align="right" height="190" src="https://64.media.tumblr.com/2c33f4e6e264cad6fe5b2695cb30472d/66017b3acf2b1d6f-2e/s540x810/ee5b7046c142ae339d8270c401b182f10d159b9c.gifv"  />
+<img align="right" height="250" src="https://64.media.tumblr.com/2c33f4e6e264cad6fe5b2695cb30472d/66017b3acf2b1d6f-2e/s540x810/ee5b7046c142ae339d8270c401b182f10d159b9c.gifv"  />
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=juliagiacomelli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=juliagiacomelli&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=juliagiacomelli&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="141" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliagiacomelli&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="101" alt="languages graph"  />
 </div>
 
